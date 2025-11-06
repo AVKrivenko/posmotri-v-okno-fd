@@ -319,8 +319,8 @@ flex-direction: column;
 }
 
 .button:focus-visible {
-outline: 1px solid #fff;
- outline-offset: 1px;
+  outline: 1px solid #fff;
+  outline-offset: 1px;
 }
 
 .result__video-container {
